@@ -5,6 +5,6 @@ class prova3_1 {
         final String monthName = "October";
         final String day = "18";
         final String year = "2021";
-        Syste.out.println(dayName+ " the "+ day+ " of "+ monthName+", "+ year);
+        System.out.println(dayName+ " the "+ day+ " of "+ monthName+", "+ year);
         }
 }
