@@ -1,5 +1,5 @@
 class prova {
-    public static void men(String[] args) {
+    public static void m(String[] args) {
         System.out.println("Hello World!");
       }
 }
