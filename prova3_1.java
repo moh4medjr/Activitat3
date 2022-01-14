@@ -1,10 +1,6 @@
 # Activitat3
-class prova3_1 {
-    public static void main(String[] args) {
-        final String dName = "Monday";
-        final String monthName = "October";
-        final String day = "18";
-        final String year = "2021";
-        Systeme.out.println(dayName+ " the "+ day+ " of "+ monthName+", "+ year);
-        }
+class HelloWorldApp {
+    public static void m(String[] args) {
+        System.out.printf("Hello World!");
+      }
 }
