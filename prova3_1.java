@@ -1,5 +1,5 @@
 # Activitat3
-class HelloWorldApp {
+class prova3_1 {
     public static void main(String[] args) {
         System.out.print("Hello World!");
       }
