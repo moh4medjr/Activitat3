@@ -1,6 +1,6 @@
 # Activitat3
 class HelloWorldApp {
-    public static void m(String[] args) {
-        System.out.printf("Hello World!");
+    public static void men(String[] args) {
+        System.out.println("Hello World!");
       }
 }
